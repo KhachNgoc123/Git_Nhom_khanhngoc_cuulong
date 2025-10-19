@@ -1,1 +1,1 @@
-# NguyenHoangKhanhNgoc231223-Git_Nhom_khanhngoc_cuulong
+# Git_Nhom_khanhngoc_cuulong
